@@ -1,0 +1,19 @@
+T1133-External Remote Services
+T1078-Valid Accounts
+T1059-Command-Line Interface
+T1047-Windows Management Instrumentation
+T1505-Server Software Component
+T1140-Deobfuscated/Decode Files or Information
+T1070-Indicator Removal on Host
+T1036-Masquerading
+T1083-File and Directory Discovery
+T1057-Process Discovery
+T1018-Remote System Discovery
+T1074-Data Staged
+T1041-Exfiltration Over Command and Control Channel
+T1105-Ingress Tool Transfer
+T1036.003-Rename System Utilities
+T1003.001-LSASS Memory
+T1074.001-Local Data Staging
+T1041-Exfiltration Over C2 Channel
+T1070.001-Clear Windows Event Logs
