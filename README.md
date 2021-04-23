@@ -3,6 +3,10 @@
 
 IOCs (IP addresses, hashes of web shell .aspx files, names of .aspx files, user-agents) courtesy CISA
 
+This repository is a companion to the article published at https://www.splunk.com/en_us/blog/security/supernova-redux-with-a-generous-portion-of-masquerading.html
+
+
+
 
 CISA Analysis report:
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-112a
@@ -24,4 +28,4 @@ Use these as lookup tables in Splunk for simple IOC matching. Note: if you want 
 
 If you wish to add more IOCs to this repo, please send a PR!
 
-22APR2021
+23APR2021
